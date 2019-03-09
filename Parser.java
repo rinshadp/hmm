@@ -1,10 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package nlp;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Iterator;
@@ -14,10 +7,6 @@ import java.util.Scanner;
 import javax.xml.bind.JAXBException;
 import org.xml.sax.SAXException;
 
-/**
- *
- * @author rinshad
- */
 public class Parser {
     File f;
     Scanner in;
